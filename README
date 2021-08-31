@@ -1,16 +1,4 @@
 ############################################
 This is the NYU retinotopy dataset
 ############################################
-
-Population receptive field (pRF) models fit to fMRI data are used to non-invasively measure retinotopic maps in human visual cortex, and these maps are a fundamental component of visual neuroscience experiments. 
-Here, we examined the reproducibility of retinotopic maps across two datasets: a newly acquired retinotopy dataset from New York University (NYU) (n=44) and a public dataset from the Human Connectome Project (HCP) (n=181). 
-Our goal was to assess the degree to which pRF properties are similar across datasets, despite substantial differences in their experimental protocols. 
-The two datasets differ in their stimulus apertures, participant pool, fMRI protocol, MRI field strength, and preprocessing pipeline. 
-We assessed the cross-dataset reproducibility of the two datasets in terms of the similarity of vertex-wise pRF estimates and in terms of large-scale polar angle asymmetries in cortical magnification. 
-Within V1, V2, V3, and hV4, the group-median NYU and HCP vertex-wise polar angle estimates were nearly identical. 
-Both eccentricity and pRF size estimates were also strongly correlated between the two datasets, but with a slope different from 1; the eccentricity and pRF size estimates were systematically greater in the NYU data. 
-Next, to compare large-scale map properties, we quantified two polar angle asymmetries in V1 cortical magnification previously identified in the HCP data. 
-The NYU dataset confirms earlier reports that more cortical surface area represents horizontal than vertical visual field meridian, and lower than upper vertical visual field meridian. 
-Together, our findings show that the retinotopic properties of V1, V2, V3, and hV4 can be reliably measured across two datasets, despite numerous differences in their experimental design. 
-fMRI-derived retinotopic maps are reproducible because they rely on an explicit computational model that is grounded in physiological evidence of how visual receptive fields are organized, allowing one to quantitatively characterize the BOLD signal in terms of stimulus properties (i.e., location and size). 
-The new NYU Retinotopy Dataset will serve as a useful benchmark for testing hypotheses about the organization of visual areas and for comparison to the HCP 7T Retinotopy Dataset.
+We need to add data description here

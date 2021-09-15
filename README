@@ -4,6 +4,7 @@ The full dataset consists of 44 subjects, including freesurfer processed anatomi
 
 <b><u>Dataset organisation:</u></b>
 
+
 <b>NYU_Retinotopy_Dataset:</b> This folder contains subject folders holding the raw, unprocessed data for each subject (nifti files).
 
 <b>NYU_Retinotopy_Dataset/derivatives/bayesian_inference_maps:</b> This folder contains subject folders holding bayesian inferred angle, eccentricity, and pRF size maps, and inferred visual areas (see https://elifesciences.org/articles/40224) (.mgz files)

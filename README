@@ -2,7 +2,7 @@ The <b>New York University (NYU) Retinotopy Dataset</b> is a part of <i>'Cross-d
 
 The full dataset consists of 44 subjects, including freesurfer processed anatomical data, raw and preprocessed (via fMRIprep) functional data on the fsnative and fsaverage surface, vistasoft pRF model output, V1, V2, V3, and hV4 ROIs, and bayesian inferred retinotopic maps and ROIs. 
 
-<b><u>Dataset organisation:</b></u>
+<b><u>Dataset organisation:</u></b>
 
 <b>NYU_Retinotopy_Dataset:</b> This folder contains subject folders holding the raw, unprocessed data for each subject (nifti files).
 

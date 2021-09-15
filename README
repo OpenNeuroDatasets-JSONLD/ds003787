@@ -1,4 +1,4 @@
-The New York University (NYU) Retinotopy Dataset as a part of 'Cross-dataset reproducability of human retinotopic maps' by Marc Himmelberg, Jan Kurzawski, Noah Benson, Denis Pelli, Marisa Carrasco, and Jonathan Winawer.
+The <b>New York University (NYU) Retinotopy Dataset </b> is a part of 'Cross-dataset reproducability of human retinotopic maps' by Marc Himmelberg, Jan Kurzawski, Noah Benson, Denis Pelli, Marisa Carrasco, and Jonathan Winawer.
 
 The full dataset consists of 44 participants, including freesurfer processed anatomical data, raw and preprocessed (via fMRIprep) functional data on the fsnative and fsaverage surface, vistasoft pRF model output, V1, V2, V3, and hV4 ROIs, and bayesian inferred retinotopic maps and ROIs. 
 

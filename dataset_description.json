@@ -9,7 +9,7 @@
         "Jon Winawer"
     ],
     "BIDSVersion": "1.8.2",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "10.18112/openneuro.ds003787.v1.0.0",
     "Funding": [
         "US National Eye Institute R01-EY027401 to MC and JW",
         "US National Eye Institute  R01-EY027964 to DGP and JW"

@@ -1,7 +1,0 @@
-{
-  "RawSources": [
-    "sub-wlsubj042/ses-anat/anat/sub-wlsubj042_ses-anat_acq-highres_run-01_T1w.nii.gz",
-    "sub-wlsubj042/ses-anat/anat/sub-wlsubj042_ses-anat_acq-highres_run-02_T1w.nii.gz"
-  ],
-  "Type": "Brain"
-}
